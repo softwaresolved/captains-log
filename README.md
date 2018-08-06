@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Join me on a journey to strange new worlds
+With over thirty years software development experience under my belt, there is still a lot to learn.  I have spent the last several years selling my skills to the highest bidder as a contract solution designer or architect, but have always tried to keep current, always tried to keep the developer in me alive.  Admittedly contract solution architects in the UK are well paid, and sometimes we get to do work we can be proud of, but mostly we set things up and move on. A relentless treadmill of solving other peoples problems, setting them up do do things right and hoping that someone listened. It's time to do something different.
 
-You can use the [editor on GitHub](https://github.com/softwaresolved/captains-log/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/softwaresolved/captains-log/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Software as a Service
+So now its time to take stock, to reflect on software architecture and design and to put into practicce for mysel 
